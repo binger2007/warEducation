@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/flying/
+flying.zip
+pool.zip
+pool20190729.rar
